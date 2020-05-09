@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 
-import HomePage from 'Pages/HomePage';
-import SecondaryPage from 'Pages/SecondaryPage';
+import HomePage from '../Pages/HomePage';
+import SecondaryPage from '../Pages/SecondaryPage';
 import GlobalStyle from 'global-styles';
 
 function App(): React.ReactElement {

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the component 1`] = `
+<div>
+  <nav>
+    <a
+      href="/"
+    >
+      HomePage
+    </a>
+    <a
+      href="/secondary"
+    >
+      SecondaryPage
+    </a>
+  </nav>
+  <h1
+    class="sc-AxjAm hgJWxN"
+  >
+    HomePage
+  </h1>
+</div>
+`;
